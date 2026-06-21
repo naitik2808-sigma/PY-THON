@@ -1,0 +1,2 @@
+task3-pythondev
+Goal Demonstrate data analysis skills using Pandas.  Requirements Load and inspect a CSV dataset Clean missing or incorrect data Apply filtering, grouping, and aggregation Explain insights in simple words Deliverables Notebook or Python script Short insight summary
